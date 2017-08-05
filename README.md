@@ -3,10 +3,10 @@ Cloud9VNC2
 
 Running X11 in a Cloud9 IDE
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot2.png)
 
-Fluxbox replaced with icewm
-1280x864 replaced by 1024x768
+Fluxbox replaced with icewm,
+resolution 1280x864 replaced by 1024x768
 
 Installation
 ------------
