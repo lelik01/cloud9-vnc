@@ -36,7 +36,7 @@ echo "Cloning noVNC..."
 echo
 
 {
-    git clone git://github.com/kanaka/noVNC /opt/noVNC/
+    git clone git://github.com/novnc/noVNC /opt/noVNC/
 }&> /dev/null
 
 #Copy supervisord configuration to proper configuration directory
