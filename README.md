@@ -1,5 +1,6 @@
 Cloud9VNC2
 ===
+Cloud9VNC2 will not be updated anymore. There is no access to the c9.io account due to the ban. C9.io will be closed on June 30, 2019.
 
 Running X11 in a Cloud9 IDE
 
